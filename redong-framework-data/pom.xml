@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <artifactId>redong-framework-data</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>${build.version}</version>
     <packaging>jar</packaging>
     <name>redong-framework-data</name>
     <description>数据部分</description>

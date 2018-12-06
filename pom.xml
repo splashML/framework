@@ -14,7 +14,14 @@
     <packaging>jar</packaging>
     <name>framework</name>
     <description>spring cloud开发框架</description>
+    <properties>
+        <build.version>0.0.1-SNAPSHOT</build.version>
+    </properties>
     <modules>
         <module>redong-framework-common</module>
+        <module>redong-framework-data</module>
+        <module>redong-framework-business</module>
+        <module>redong-framework-eureka</module>
+        <module>redong-framework-web</module>
     </modules>
 </project>

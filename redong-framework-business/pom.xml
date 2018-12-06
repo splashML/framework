@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.redong</groupId>
     <artifactId>redong-framework-business</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>${build.version}</version>
     <packaging>jar</packaging>
     <name>redong-framework-business</name>
     <description>业务模块</description>
