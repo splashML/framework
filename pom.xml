@@ -24,5 +24,6 @@
         <module>redong-framework-eureka</module>
         <module>redong-framework-web</module>
         <module>redong-framework-zuul</module>
+
     </modules>
 </project>
